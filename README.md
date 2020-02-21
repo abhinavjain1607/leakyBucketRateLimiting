@@ -7,7 +7,7 @@ The following are the recommended options, but you're free to use any means to g
 
 #### Remote Option: Glitch.com
 
-1. [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://gold-hygienic-gzk32ptnoc.glitch.me)
+1. [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/join/03698b80-de31-4ae6-8243-eee6de93e269)
 2. Populate `.env` file with the environment variables given in the problem set we send to you through email
 3. Click on `Show Live` and you should see `Welcome to My World 😎`
 
